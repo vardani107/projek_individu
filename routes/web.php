@@ -29,7 +29,7 @@ route::middleware('guest')->group(function(){
    
 
         Route::get('/', function () {
-        return view('dashboard');
+        return view('home');
     });
 
 
