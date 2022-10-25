@@ -1,11 +1,11 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\http\Controllers\DashboardController;
-use App\http\Controllers\mastersiswaController;
-use App\http\Controllers\masterkontakcontroller;
-use App\http\Controllers\masterprojectController;
-use App\http\Controllers\loginController;
+use App\hHttpttp\Controllers\DashboardController;
+use App\Http\Controllers\mastersiswaController;
+use App\Http\Controllers\masterkontakcontroller;
+use App\Http\Controllers\masterprojectController;
+use App\Http\Controllers\loginController;
 
 /*
 |--------------------------------------------------------------------------
